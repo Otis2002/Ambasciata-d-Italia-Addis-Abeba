@@ -9,6 +9,9 @@ body{
     align-items: center;
     flex-direction: column;
     background-color: rgb(222,220,224);
+    background-image:url(srk.jpg.jpg) ;
+    background-repeat: no-repeat;
+    background-size: auto;
 
 }
 .Container{
