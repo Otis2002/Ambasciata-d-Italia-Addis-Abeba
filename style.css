@@ -66,9 +66,17 @@ input{
     border-radius: 10px;
 
 }
-input[type="submit"]{
+button[type="submit"]{
     background-color: royalblue;
     color: white;
+    width: 380px;
+    height: 50px;
+    margin: 10px 0px;
+    padding: 0px 10px;
+    outline: none;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    border-radius: 10px;
     
 
 }
